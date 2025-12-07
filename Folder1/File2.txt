@@ -1,1 +1,2 @@
-This is the 2nd  file for git course
+This is the 2nd  file for git course.
+adding more content to this file.
