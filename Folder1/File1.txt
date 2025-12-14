@@ -1,2 +1,3 @@
 This is a 1st git course file.
 adding content in file 1
+adding detail.
