@@ -1,1 +1,2 @@
 This script has been created for testing stash.
+2nd line added.
